@@ -2629,6 +2629,26 @@ video {
     padding-bottom: 0.875rem;
   }
 
+  .xl\:px-\[3\.5rem\] {
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+  }
+
+  .xl\:px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .xl\:px-\[3\.75rem\] {
+    padding-left: 3.75rem;
+    padding-right: 3.75rem;
+  }
+
+  .xl\:px-\[3\.875rem\] {
+    padding-left: 3.875rem;
+    padding-right: 3.875rem;
+  }
+
   .xl\:text-left {
     text-align: left;
   }
